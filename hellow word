@@ -1,0 +1,6 @@
+回声“＃hellow-word” >> README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git remote add origin https://github.com/sbq2272578756/hellow-word.git
+ git push -u原产地大师
